@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ .ll img{
+    height: 5rem;
+}
+.text-xl{
+    color: rgb(66, 53, 95);
+    padding-right: 2rem;
+
+}
+header{
+    background-color: rgb(255, 255, 255);
+box-shadow: 5px 5px 12px 5px gray;
+
+}
+.body-font1 {
+    background-image: url(./pexels-andrea-piacquadio-840996.jpg);
+    height: 35rem;
+    width: 100%;
+   background-size: cover;
+   color: black;
+}
+.body-font2{
+    margin: auto;
+    background-color: rgb(248, 245, 245);
+    box-shadow:2px 2px 4px 2px  rgb(209, 200, 200);
+    height: 3rem;
+
+}
+.title-font1 {
+    box-shadow: 0px 0 16px rgb(0 0 0 / 10%);
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+.title-font2 {
+    box-shadow: 0px 0 16px rgb(0 0 0 / 10%);
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}.title-font3 {
+    box-shadow: 0px 0 16px rgb(0 0 0 / 10%);
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}.title-font4 {
+    box-shadow: 0px 0 16px rgb(0 0 0 / 10%);
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+.body-font8{
+    background-color: rgb(236, 246, 246);
+    height: 18rem;
+}
+.body-font12{
+    background-color:aliceblue;
+}
+.w-full img{
+padding-bottom: 5rem;
+}
+.body-fontll{
+    background-color: aliceblue;
+}
+.lop{
+    padding-left: 25rem;
+    margin-top: 2rem;
+    font-size: 2rem;
+}
